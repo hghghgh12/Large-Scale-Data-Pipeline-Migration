@@ -1,0 +1,29 @@
+hadoop_user: "divithraju"
+name_node: "hdfs://localhost:4444"
+hdfs_base: "/user/divithraju/hr_project"
+raw_path: "/user/divithraju/hr_project/raw"
+processed_path: "/user/divithraju/hr_project/processed"
+archive_path: "/user/divithraju/hr_project/archive"
+logs_path: "/user/divithraju/hr_project/logs"
+validation_path: "/user/divithraju/hr_project/validation"
+
+mysql:
+  host: "localhost"
+  port: 3306
+  database: "Employees_data"
+  user: "divithraju"
+  password: "divith4321"
+  table: "employee_data"
+
+spark:
+  app_name: "HR_ETL"
+  master: "local[*]"
+  executor_memory: "2g"
+  driver_memory: "1g"
+
+hive:
+  database: "hr_warehouse"
+  table: "employee_data"
+
+oozie:
+  frequency: "weekly"
